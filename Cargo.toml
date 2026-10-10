@@ -1,0 +1,8 @@
+[package]
+name = "side-hustle-hourly"
+version = "0.1.0"
+edition = "2021"
+description = "True hourly rate math for side hustles: net earnings after platform cuts and costs, divided by real hours including admin, with a gig comparison."
+license = "MIT"
+homepage = "https://extrahustles.com"
+repository = "https://github.com/scrapertweeter3-prog/side-hustle-hourly"
