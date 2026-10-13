@@ -1,0 +1,6 @@
+site_name: side-hustle-hourly
+site_description: True hourly rate math for side gigs after platform cuts, job costs, and unpaid hours.
+repo_url: https://github.com/scrapertweeter3-prog/side-hustle-hourly
+repo_name: scrapertweeter3-prog/side-hustle-hourly
+nav:
+  - Home: index.md
